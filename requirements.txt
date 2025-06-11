@@ -1,7 +1,0 @@
-
-streamlit
-requests
-pandas
-feedparser
-newsapi-python
-python-dateutil
